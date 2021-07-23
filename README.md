@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Utkarsh Kushwaha</h1>
-<h3 align="center">A passionate student of BTech CSE from India</h3>
+<h3 align="center">BTech CSE</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utkarshkushwaha1&label=Profile%20views&color=279a9d&style=flat" alt="utkarshkushwaha1" /> </p>
 
