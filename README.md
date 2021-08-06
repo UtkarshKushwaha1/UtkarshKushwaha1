@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "300px" src="https://wallpaperaccess.com/full/3835585.png" alt="cover" />
+<img width="70%" height = "70%" src="https://clis1-18.wbs.uni.worc.ac.uk/wp-content/uploads/2019/03/Blog-Post-Graphic-How-to-design-the-perfect-MMS_gif.gif" alt="cover" />
 </div>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
@@ -13,7 +13,7 @@
 
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="55%" align="right" alt="Github" src="https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif" />
 
 
 - 🔭 I’m currently working on Web Development and Machine Learning Projects
