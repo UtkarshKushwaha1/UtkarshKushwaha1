@@ -36,7 +36,3 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=UtkarshKushwaha1&show_icons=true&theme=onedark" />
 </a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UtkarshKushwaha1&layout=compact&theme=onedark" />
-</a>
