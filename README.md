@@ -8,7 +8,7 @@
 </div>
 
 <h2> About Me</h2>
-- 🔭 I’m currently working on Web Development and Machine Learning Projects
+- 🔭 I’m currently working on Machine Learning and Deep Learning Projects
 
 - 🌱 I’m currently learning Machine Learning and Deep Learning
 
