@@ -10,7 +10,7 @@
 <h2> About Me</h2>
 - 🔭 I’m currently working on Web Development and Machine Learning Projects
 
-- 🌱 I’m currently learning Tensorflow and OpenCV
+- 🌱 I’m currently learning Machine Learning and Deep Learning
 
 - 👯 I’m looking to collaborate on Projects and Tech Articles 
 
