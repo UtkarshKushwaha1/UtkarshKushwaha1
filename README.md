@@ -78,6 +78,8 @@ const utkarsh: Developer = {
 * Organized by subjects, topics, and years
 * Optimized for speed and usability
 
+👉 https://iaspyq.com/
+
 ---
 
 ## ⚡ Tech Stack
