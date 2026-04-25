@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Replace the src below with your actual image URL after uploading to your repo -->
-<img src="./banner.png" width="100%" alt="Utkarsh Kushwaha Banner"/>
+<img src="./banner.jpg" width="100%" alt="Utkarsh Kushwaha Banner"/>
 
 <br/><br/>
 
